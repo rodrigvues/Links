@@ -28,7 +28,6 @@ body {
   /* background:  image repeat position/size */
   background: var(--bg-url) top center/cover;
   height: 100vh;
-  overflow: hidden;
 }
 body * {
   font-family: "Inter", sans-serif;
